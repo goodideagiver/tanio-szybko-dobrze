@@ -1,0 +1,22 @@
+.root {
+  display: grid;
+  gap: 1rem;
+  align-items: center;
+  grid-template-columns: 25% 50% 25%;
+}
+
+.root p {
+  transition: .5s;
+}
+
+
+
+.activeOption {
+  color: yellow;
+  text-shadow: gold 0 0 10px;
+}
+
+.leftParagraph {
+  color: red;
+  text-shadow: red 0 0 10px;
+}
