@@ -2,9 +2,10 @@
   display: grid;
   gap: 1rem;
   align-items: center;
-  grid-template-columns: 25% 50% 25%;
+  grid-template-columns: 25% 30% 25%;
   width: 100%;
-  text-align: start;
+  text-align: center;
+  margin: auto;
 }
 
 .root p {
