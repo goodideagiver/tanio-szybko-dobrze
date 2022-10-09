@@ -3,6 +3,8 @@
   gap: 1rem;
   align-items: center;
   grid-template-columns: 25% 50% 25%;
+  width: 100%;
+  text-align: start;
 }
 
 .root p {
